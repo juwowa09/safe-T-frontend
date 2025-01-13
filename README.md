@@ -1,4 +1,3 @@
-hi
 # raon_frontend
 
 A new Flutter project.
